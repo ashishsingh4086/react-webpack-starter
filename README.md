@@ -2,6 +2,7 @@
 
 
 Starter kit for React
-   - clone the repo.
+   - clone the repo
+   - cd the repo
    - npm install
    - npm start 
